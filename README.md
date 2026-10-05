@@ -29,19 +29,19 @@ Pair up with someone next to you.
 
 Now deliberately create a merge conflict.
 
-- [ ] Both of you change the **same lines** of the analysis, but differently.
+- [x] Both of you change the **same lines** of the analysis, but differently.
     - e.g. you both add a plot of `Martinis` against `US_Adj`, but with
       different colours / titles / options.
-- [ ] One of you **commits and pushes**.
-- [ ] The other **commits**, then tries to **push** — it will be rejected.
+- [x] One of you **commits and pushes**.
+- [x] The other **commits**, then tries to **push** — it will be rejected.
 
 ### Task 2b: Oh No!
 
-- [ ] Try a `git pull` — you might get a *merge conflict*.
-- [ ] Fix the merge conflict, then **commit and push**.
-- [ ] Make sure your peer **pulls** the fixed version.
-- [ ] Swap roles and do it again!
+- [x] Try a `git pull` — you might get a *merge conflict*.
+- [x] Fix the merge conflict, then **commit and push**.
+- [x] Make sure your peer **pulls** the fixed version.
+- [x] Swap roles and do it again!
 
 ### Task 2c: Swap (Stretch)
 
-- [ ] Try it again, but this time swap roles.
+- [x] Try it again, but this time swap roles.
