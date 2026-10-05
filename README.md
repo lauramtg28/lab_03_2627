@@ -20,10 +20,10 @@ There is some data analysis and commentary in `bond.R`. The first task is to
 
 Pair up with someone next to you.
 
-- [ ] Choose one of you (Person A) to add a peer (Person B) as a collaborator to this repo (which you forked at the start of the lab).
+- [x] Choose one of you (Person A) to add a peer (Person B) as a collaborator to this repo (which you forked at the start of the lab).
     - To do this, Person A goes to the repo in `GitHub`, then adds B's GitHub Username in (**Settings → Collaborators**) so you can both push.
     - Person B will receive an invite by email.
-- [ ] Person B should then **clone Person A's** repo, and complete the below in that repo.
+- [x] Person B should then **clone Person A's** repo, and complete the below in that repo.
 
 ### Task 2a: Breaking Things
 
