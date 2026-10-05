@@ -7,11 +7,11 @@ There is some data analysis and commentary in `bond.R`. The first task is to
 
 ### Task 1
 
-- [ ] Create a Quarto file to hold the new analysis.
-- [ ] Copy across the analysis. (**Then push to GitHub**)
-- [ ] Make sure the R code runs. (**Then push to GitHub**)
-- [ ] Convert comments to Markdown. (**Then push to GitHub**)
-- [ ] Replace constants with inline code chunks. (**Then push to GitHub**)
+- [x] Create a Quarto file to hold the new analysis.
+- [x] Copy across the analysis. (**Then push to GitHub**)
+- [x] Make sure the R code runs. (**Then push to GitHub**)
+- [x] Convert comments to Markdown. (**Then push to GitHub**)
+- [x] Replace constants with inline code chunks. (**Then push to GitHub**)
     - Remember the inline `` `r ` `` syntax!
 
 ## Git for Collaboration
